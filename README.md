@@ -3,7 +3,7 @@
 Project2
 </span>
 </h1>
-* * *
+***
 ## Introduction
  This repository consists of solutions to project2 and data files used for the same.
 ***
