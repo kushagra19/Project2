@@ -1,0 +1,1 @@
+93,mercedes-benz,diesel,turbo,two,hardtop,rwd,front,106.70,187.50,70.30,54.90,3495,ohc,five,183,idi,3.58,3.64,21.50,123,4350,22,25,28176
