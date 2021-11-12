@@ -3,7 +3,7 @@
 Project2
 </span>
 </h1>
-***
+
 ## Introduction
  This repository consists of solutions to project2 and data files used for the same.
 ***
@@ -17,7 +17,7 @@ For installing the repository use the command below in your terminal.<br>
 ***
 ## Description
 In this problem we were given data of automobile dataset stored as data_set.data in the repository.We had to train two models using L1 regularization in one of them and compare both by choosing a loss funciton of our choice. <br />
-***
+
 ## Steps to run the code:
 The repository consists of following files:
 * Project2.ipynb
