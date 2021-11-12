@@ -33,5 +33,5 @@ Each file has its own role
   * The only care need to be taken is to update path variable for data_set.data depending on your PC.
   * This code when run will also generate a clean_data.csv file which stores cleaned and pre-processed data in the same directory where the code will be kept just for reference.
   * At last this code also predicts a data point given to us during submission to test our model's prediction capabilities. 
-  * For testing on a new data point update the path of the variables in section that has a heading 'Specific Data Point' in the ipynb file where comments will guide     you to where to update the path.
+  * For testing on a new data point update the path of the variables in section that has a heading 'Specific Data Point' in the ipynb file where comments will guide     you to where to update the path.<br>
 **NOTE:Change path variable according to your files in order for the code to work properly.**
